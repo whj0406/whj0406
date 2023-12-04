@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Seulki&count_private=true&show_icons=true&theme=solarized-light)
-
+<a href="mailto:whj040673@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
 <!--
 **whj0406/whj0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
