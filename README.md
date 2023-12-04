@@ -5,6 +5,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Seulki&count_private=true&show_icons=true&theme=solarized-light)
 <a href="mailto:whj040673@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
+
+
+
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaman&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/></a>
 <!--
 **whj0406/whj0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
